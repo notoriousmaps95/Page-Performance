@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+
+# Per-site audit outputs — keep the reports/ folder tracked, ignore actual audits
+page-performance/reports/*/
+!page-performance/reports/.gitkeep
+
+# Sample fixtures — keep the folder, ignore content
+page-performance/samples/*
+!page-performance/samples/.gitkeep
