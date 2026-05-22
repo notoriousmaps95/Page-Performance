@@ -1,6 +1,6 @@
 # Page-Performance
 
-A Claude Code subagent that runs a 10-phase performance + semantic + accessibility audit on any single web page, derived from Koray Tuğberk GÜBÜR's [Holistic SEO Research Study](https://www.holisticseo.digital/seo-research-study/holistic-seo).
+A Claude Code subagent that runs a 10-phase performance + semantic + accessibility audit on any single web page,Created by Manpreet Singh and derived from Koray Tuğberk GÜBÜR's framework
 
 Outputs a `/100` audit report with category breakdown, top-5 prioritised actions, and a Next Actions table — ready to hand to a developer.
 
